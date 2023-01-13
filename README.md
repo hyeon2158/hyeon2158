@@ -5,9 +5,9 @@
 <br/>
   
 ## 📊 Github 📊
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon2158&show_icons=true&theme=radical)
+![Hyeon's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hyeon2158&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon2158&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hyeon2158&layout=compact&theme=dracula)
 
   <br/>
   
