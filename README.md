@@ -19,7 +19,5 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wddol2158)](https://solved.ac/wddol2158)
   
   
-  <img src="http://mazandi.herokuapp.com/api?handle=wddol2158&theme=warm"/>
-  
 </div>
 
